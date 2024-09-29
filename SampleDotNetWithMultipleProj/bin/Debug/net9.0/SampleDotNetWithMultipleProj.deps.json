@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SampleDotNetWithMultipleProj/1.0.0": {
+        "dependencies": {
+          "SampleLib": "1.0.0"
+        },
+        "runtime": {
+          "SampleDotNetWithMultipleProj.dll": {}
+        }
+      },
+      "SampleLib/1.0.0": {
+        "runtime": {
+          "SampleLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleDotNetWithMultipleProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

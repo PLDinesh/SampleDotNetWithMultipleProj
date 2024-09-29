@@ -1,0 +1,11 @@
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\bin\Debug\net9.0\SampleLib.deps.json
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\bin\Debug\net9.0\SampleLib.dll
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\bin\Debug\net9.0\SampleLib.pdb
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.GeneratedMSBuildEditorConfig.editorconfig
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.AssemblyInfoInputs.cache
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.AssemblyInfo.cs
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.csproj.CoreCompileInputs.cache
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.dll
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\refint\SampleLib.dll
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\SampleLib.pdb
+N:\Dotnet\SampleDotNetWithMultipleProj\SampleLib\obj\Debug\net9.0\ref\SampleLib.dll
